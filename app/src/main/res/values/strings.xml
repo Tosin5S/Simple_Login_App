@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simple_Login_App</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_up">SIGN UP</string>
 </resources>
