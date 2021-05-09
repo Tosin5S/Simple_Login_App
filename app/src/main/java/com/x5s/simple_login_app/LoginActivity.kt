@@ -29,7 +29,6 @@ class LoginActivity : AppCompatActivity() {
                     startActivity(intent)
                 } else {
                     Toast.makeText(this, "Wrong email or password", Toast.LENGTH_LONG).show()
-
                 }
             }
         }
